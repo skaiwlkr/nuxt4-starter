@@ -1,75 +1,22 @@
-# Nuxt4 Minimal Starter
+# Nuxt 4 Starter Auth
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Overview
 
-## Setup
+Nuxt 4 Starter Auth is a template for a Nuxt 4 application with authentication.
 
-Make sure to install dependencies:
+## Features
 
-```bash
-# npm
-npm install
+- Authentication
+- Authorization
+- Login
+- Register
+- Forgot Password
+- Reset Password
+- Logout
+- Two-Factor Authentication (Coming soon)
 
-# pnpm
-pnpm install
+## Tech Stack
 
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- Frontend: Nuxt 4
+- Database: PostgreSQL
+- UI Framework: Tailwind CSS
