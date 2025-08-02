@@ -1,19 +1,17 @@
-# Nuxt 4 Starter Auth
+# Nuxt 4 Starter
 
 ## Overview
 
-Nuxt 4 Starter Auth is a template for a Nuxt 4 application with authentication.
+Nuxt 4 Starter Auth is a template for a Nuxt 4 application.
 
 ## Features
 
-- Authentication
-- Authorization
-- Login
-- Register
-- Forgot Password
-- Reset Password
-- Logout
-- Two-Factor Authentication (Coming soon)
+- Nuxt4 Blank Template
+- ESLint with antfu config
+- Prettier
+- Husky
+- Lint-staged
+- Tailwind CSS (Coming soon)
 
 ## Tech Stack
 
