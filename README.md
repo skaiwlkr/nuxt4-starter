@@ -11,6 +11,7 @@ Nuxt 4 Starter Auth is a template for a Nuxt 4 application.
 - Prettier
 - Husky
 - Lint-staged
+- Kysely (Migrations)
 - Tailwind CSS (Coming soon)
 
 ## Tech Stack
